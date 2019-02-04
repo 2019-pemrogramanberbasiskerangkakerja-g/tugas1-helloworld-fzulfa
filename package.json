@@ -1,0 +1,13 @@
+{
+      "name": "tugas1-helloworld-fzulfa",
+      "version": "0.0.1",
+      "author": "Fatimatus Zulfa",
+      "description": "Membuat Hello World menggunakan node.js dan express sebagai tugas 1 PBKK G",
+      "scripts": {
+            "start": "node app.js"
+      },
+      "license": "MIT",
+      "dependencies": {
+            "express": "^4.16.4"
+      }
+}
