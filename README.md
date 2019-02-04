@@ -7,4 +7,4 @@ Langkah-langkah untuk membuat Hello World menggunakan node.js dan express
 3. Buat app.json sesuai keinginan
 4. Jalankan http://localhost:73 (sesuai port pada app.json)
 5. Berikut hasilnya
-![capture](2019-pemrogramanberbasiskerangkakerja-g/tugas1-helloworld-fzulfa/Capture.PNG)
+![capture](Capture.PNG)
